@@ -22,7 +22,7 @@
     <style>
     .btn-orange{
       background-color: #FFA500;
-      font color: white;
+      color: white;
     }
     </style>
 </head>
@@ -32,7 +32,7 @@
                         <form action="" method="post">
                     <!--Domein naam word hieringegeven-->
                     <input id="input" class="input" type="text" name="domein" placeholder="Plaats domein naam" value="<?php if(isset($_GET['domain'])){ echo $_GET['domain']; } ?>">
-                    <button type="submit" id="btnSearch" class="btn-search"><i class="fa fa-search"></i>maak der wat moois van</button>
+                    <button type="submit" id="btnSearch" class="btn-search"><i class="fa fa-search"></i>Ophalen</button>
                 </form>
 
 

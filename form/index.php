@@ -4,8 +4,6 @@
     <meta charset="utf-8"/>
     <title>SmitPRO</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description"/>
-    <meta content="Coderthemes" name="author"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <!-- App favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -185,56 +183,6 @@
                                 <fieldset title="3">
                                     <legend>Email</legend>
                                     <div class="row m-t-20">
-                                        <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-4 col-xs-4 col-xs-offset-4">
-                                            <div class="box-part text-center">
-                                                <div class="title">
-                                                    <h4>Exchange Online<br>
-                                                    (Per mailbox)</h4>
-                                                </div>
-                                                <div class="text">
-                                        <span>
-                                            Mailbox: 50GB<br>
-                                            Kosten per maand: €3,40<br>
-                                            Set-up kosten<br><br>
-                                            <input type="radio" name="hosting" value="geen-hosting">
-                                        </span>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-4 col-xs-4 col-xs-offset-4">
-                                            <div class="box-part text-center">
-                                                <div class="title">
-                                                    <h4>Hosting mail<br><br></h4>
-                                                </div>
-                                                <div class="text">
-                                        <span>
-                                            Mailbox (maximaal): 600MB<br>
-                                            Set-up kosten<br>
-                                            Geen extra kosten<br><br>
-                                            <input type="radio" name="hosting" value="hosting-mail">
-                                        </span>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-4 col-xs-4 col-xs-offset-4">
-                                            <div class="box-part text-center">
-                                                <div class="title">
-                                                    <h4>Geen mail<br><br></h4>
-                                                </div>
-                                                <div class="text">
-                                        <span>
-                                            Geen mailbox<br>
-                                            Geen set-up kosten<br>
-                                            Geen extra kosten<br><br>
-                                            <input type="radio" name="hosting" value="geen-hosting">
-                                        </span>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        </div>
 
                                 </fieldset>
 
