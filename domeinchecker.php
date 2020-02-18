@@ -49,7 +49,7 @@
             <tbody>
 
 <?php
-$servername = "localhost";
+$servername = "tnatter.nl";
 $username = "tnatter_op";
 $password = "gf3ALaRP";
 $database = "tnatter_op";
